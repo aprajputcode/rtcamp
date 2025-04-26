@@ -1,0 +1,16 @@
+{
+    "name": "playwright-saucedemo",
+    "version": "1.0.0",
+    "description": "Playwright automation framework for saucedemo assignment",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test",
+        "test:headed": "npx playwright test --headed",
+        "test:report": "npx playwright show-report"
+    },
+    "author": "Akshay",
+    "devDependencies": {
+        "@axe-core/playwright": "^4.10.1",
+        "@playwright/test": "^1.44.1"
+    }
+}
