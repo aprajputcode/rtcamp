@@ -23,7 +23,6 @@
 - Sorting validation (Z-A and Price High-Low)
 - Cart and checkout journey
 - Bonus: Visual Regression Testing
-- Bonus: Accessibility Testing
 - GitHub Actions CI Integration
 
 ## Credentials
